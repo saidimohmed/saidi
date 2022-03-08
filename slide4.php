@@ -19,7 +19,7 @@
     </div>
     <div class="card">
         <div class="imgBox">
-            <img src="https://j.top4top.io/p_2258vq9su0.jpeg>
+            <img src="https://j.top4top.io/p_2258vq9su0.jpeg">
         </div>
         <div class="btn-claim" onclick="gass(this)">Claim</div>
     </div>
@@ -55,7 +55,7 @@
     </div>
     <div class="card">
         <div class="imgBox">
-            <img src="https://a.top4top.io/p_22585w7ay9.jpegg">
+            <img src="https://k.top4top.io/p_2258k0mhe1.jpeg">
         </div>
         <div class="btn-claim" onclick="gass(this)">Claim</div>
     </div>
