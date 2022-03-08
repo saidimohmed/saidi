@@ -1,7 +1,7 @@
 <div class="card-wrap">
     <div class="card">
         <div class="imgBox">
-            <img src="img/senjata/1.jpeg">
+            <img src="https://h.top4top.io/p_22585atih0.jpg">
         </div>
         <div class="btn-claim" onclick="gass(this)">Claim</div>
     </div>
