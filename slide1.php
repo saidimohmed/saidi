@@ -49,7 +49,7 @@
     </div>
     <div class="card">
         <div class="imgBox">
-            <img src="https://j.top4top.io/p_2273tz5qf8.jpeg>
+            <img src="https://j.top4top.io/p_2273tz5qf8.jpeg">
         </div>
         <div class="btn-claim" onclick="gass(this)">Claim</div>
     </div>
